@@ -1,0 +1,8 @@
+symptom,disease,advice
+fever,Flu,Drink plenty of fluids and rest
+cough,Common Cold,Stay hydrated and take steam inhalation
+headache,Migraine,Avoid stress and get proper sleep
+fever cough,Flu,Consult a doctor if symptoms persist
+fever headache,Dengue,Get a blood test and medical consultation
+cough headache,Sinus Infection,Use prescribed medication
+fever cough headache,Flu,Take rest and consult physician
