@@ -1,0 +1,19 @@
+
+------------------------------------
+        HEALTH REPORT
+------------------------------------
+
+Date : 2026-06-27 22:30:46.365126
+
+Symptoms :
+fever
+
+Predicted Disease :
+Flu
+
+Advice :
+Drink plenty of fluids and rest
+
+------------------------------------
+Stay Healthy!
+------------------------------------
